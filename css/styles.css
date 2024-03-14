@@ -75,7 +75,6 @@ img {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  margin-right: 76px;
 }
 
 .header-logo {
@@ -126,6 +125,10 @@ img {
   background-color: #2e2f42;
   box-sizing: content-box;
   padding: 188px 0;
+  background-image: linear-gradienturl(
+      rgba(46, 47, 66, 0.7) rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/people-office.jpg);
 }
 
 .hero-title {
@@ -161,6 +164,7 @@ img {
   min-width: 169px;
   height: 56px;
   margin: 0 auto;
+  margin-top: 48px;
 }
 
 .button:hover,
@@ -322,15 +326,7 @@ img {
 }
 
 .portfolio-studio {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #f4f4fd;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .footer-color-web {
