@@ -145,7 +145,10 @@ img {
   box-sizing: content-box;
   padding-top: 188px;
   padding-bottom: 188px;
-  width: 1440px;
+  max-width: 1440px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
@@ -455,7 +458,6 @@ img {
   max-width: 264px;
 }
 .container-text {
-  margin-left: 156px;
   margin-right: 120px;
 }
 
