@@ -153,7 +153,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/people-office.jpg);
+    url(../images/people-office.jpg);
 }
 
 .hero-title {
@@ -434,7 +434,7 @@ img {
   position: relative;
   overflow: hidden;
 }
-.open-card:hover .card-text {
+.portfolio-title-list:hover .card-text {
   transform: translateY(0%);
 }
 
