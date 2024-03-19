@@ -444,19 +444,15 @@ img {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+.footer-box {
+  display: flex;
+}
 
 .footer-text-color {
   color: #f4f4fd;
   max-width: 264px;
 }
 .container-text {
-  margin-right: 120px;
-}
-
-.footer-social-media {
-  margin-top: 110px;
-  margin-bottom: 122px;
-  margin-left: 120px;
   margin-right: 120px;
 }
 
