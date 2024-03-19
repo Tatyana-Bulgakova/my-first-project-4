@@ -212,7 +212,6 @@ img {
   border-radius: 4px;
   width: 264px;
   height: 112px;
-  padding: 24px 100px;
   background-color: #f4f4fd;
   display: flex;
   align-items: center;
@@ -305,9 +304,6 @@ img {
   justify-content: center;
   flex-direction: row;
   gap: 24px;
-  width: 232px;
-  height: 40px;
-  margin-left: 16px;
 }
 
 .card-icons {
@@ -448,10 +444,6 @@ img {
   padding-top: 100px;
   padding-bottom: 100px;
 }
-.container {
-  display: flex;
-  align-items: baseline;
-}
 
 .footer-text-color {
   color: #f4f4fd;
@@ -462,8 +454,6 @@ img {
 }
 
 .footer-social-media {
-  width: 208px;
-  height: 80px;
   margin-top: 110px;
   margin-bottom: 122px;
   margin-left: 120px;
